@@ -6,4 +6,6 @@ This design is based on the _Adjustable Regulator With Improved Ripple Rejection
 
 This work was originally created in 2013 but is now being published here under the MIT licence.
 
-For more information, see https://devtty.io/2017/09/electronics/lm338-linear-voltage-regulator-pcb/
+## More Information
+
+See: https://devtty.io/2017/09/electronics/lm338-linear-voltage-regulator-pcb/
